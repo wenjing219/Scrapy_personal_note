@@ -1,2 +1,2 @@
 # Scrapy_personal_note
-Scrapy learning not
+Scrapy learning note
